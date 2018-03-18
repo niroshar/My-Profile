@@ -1,0 +1,11 @@
+# basic options
+title: Nirosha Rathnayake
+author: niroshar
+email: niro.uno@gmail.com
+description: My web profile
+LinkedIn_username: nirosha-rathnayake
+github_username: niroshar
+
+# Build settings
+markdown: kramdown
+theme: minima
