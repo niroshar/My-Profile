@@ -2,7 +2,7 @@ A Ph.D. in Biostatistics candidate in the Department of Biostatistics, Universit
 
 I have uploaded [R codes](https://github.com/niroshar/My-R-Codes) of some of the research projects I completed during my academic career. The remaining R codes will be posted after the peer review.  
 
-![alt](https://github.com/niroshar/My-Profile/tree/master/images/wordcloud.jpeg) 
+![alt](http://lmsotfy.com/so.png) 
 
 
 [webpage](https://niroshar.github.io/My-Profile/)
