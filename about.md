@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-Welcome ! This is my website. I am Nirosha Rathnayake, a Ph.D. in Biostatistics candidate in the Department of Biostatistics, University of Nebraska Medical Center (UNMC), Omaha, NE. Throughout my academic career, I had opportunity to complete various research projects of data analytics and predictive modelling based on Statistical/Biostatistical, data mining, and machine learning techniques using diffrerent statistical software, RStudio, MATLAB, BayesiaLab, SAS, and SPSS. That motivates me to enhance my knowledge in Data Science field and I have educated myself with data manipulation using SQL, and data visualization using Tableau.
+Welcome ! This is my website. I am Nirosha Rathnayake, a Ph.D. in Biostatistics candidate in the Department of Biostatistics, University of Nebraska Medical Center (UNMC), Omaha, NE. Throughout my academic career, I had opportunities to complete various research projects of data analytics and predictive modelling based on Statistical/Biostatistical, data mining, and machine learning techniques using diffrerent statistical software, RStudio, MATLAB, BayesiaLab, SAS, and SPSS. That motivated me to enhance my knowledge in Data Science field and I have educated myself with data manipulation using SQL, and data visualization using Tableau.
 
 ![](wordcloud.jpeg)
