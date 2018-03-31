@@ -5,10 +5,6 @@ date: "March 31, 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 
 #### Research Experience 
@@ -39,6 +35,7 @@ factors using R software.
 * Longitudinal study to assess hearing loss among employees using data from four different 
 power plants using R software.   
 					
+* Creating [word clouds](https://github.com/niroshar/Word-Cloud), document writing using [Rmarkdown](https://github.com/niroshar/My-R-Codes/tree/master/Reproducible-Reports), experience with [Tableau](https://public.tableau.com/profile/nirosha.p.rathnayake#!/), SQL, prepare DashBoards using R
 
 
 #### Academic 
