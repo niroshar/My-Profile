@@ -78,7 +78,7 @@ presentation at the Specialized Program of Research Excellence (SPORE) conferenc
 Club, UNMC, January 2018.
 
 #### Blogs
-Rathnayake, N.,How to Analyze High-Dimensional Data, RPubs, [article](http://rpubs.com/niroshaR/NPR)
+Rathnayake, N., How to Analyze High-Dimensional Data, RPubs, [article](http://rpubs.com/niroshaR/NPR)
 #### Computer Skills
 * **RStudio, SAS, SPSS, MATLAB, BayesiaLab, SQL, Tableau, Python**
 
