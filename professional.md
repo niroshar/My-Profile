@@ -77,8 +77,8 @@ presentation at the Specialized Program of Research Excellence (SPORE) conferenc
 * Rathnayake, N., Big Data Analysis using Machine Learning Techniques, Biostatistics Journal 
 Club, UNMC, January 2018.
 
-
-
+#### Blogs
+Rathnayake, N.,How to Analyze High-Dimensional Data, RPubs, [article](http://rpubs.com/niroshaR/NPR)
 #### Computer Skills
 * **RStudio, SAS, SPSS, MATLAB, BayesiaLab, SQL, Tableau, Python**
 
