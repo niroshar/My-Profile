@@ -79,6 +79,11 @@ Club, UNMC, January 2018.
 
 #### Blogs
 Rathnayake, N., How to Analyze High-Dimensional Data, RPubs, [article](http://rpubs.com/niroshaR/NPR)
+
+Rathnayake, N., Estimating Validation Set Error, http://rpubs.com/niroshaR/validation_set_error
+
+
+
 #### Computer Skills
 * **RStudio, SAS, SPSS, MATLAB, BayesiaLab, SQL, Tableau, Python**
 
