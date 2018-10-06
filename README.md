@@ -4,11 +4,12 @@ Throughout my academic career, I had opportunities to complete various research 
 
 *R* codes for some of the research projects I completed during my academic career. [My GitHub page!](https://github.com/niroshar/AcademicProjects)
 
-[Experiences](https://niroshar.github.io/My-Profile/links/Professional.html)
+[Research Projects/Presentations/Blogs](https://niroshar.github.io/My-Profile/links/Professional.html)
+
+
+[LinkedIn page](https://www.linkedin.com/in/nirosha-rathnayake-89501385/)
 
 
 [webpage](https://niroshar.github.io/My-Profile/)
- 
-[LinkedIn page](https://www.linkedin.com/in/nirosha-rathnayake-89501385/)
 
 
