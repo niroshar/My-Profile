@@ -1,13 +1,15 @@
-Currently working as a Data Scientist at Union Pacific Railroad [(UP)](https://www.up.com/index.htm), a Ph.D. in Biostatistics candidate at the Department of Biostatistics, University of Nebraska Medical Center [(UNMC)](https://www.unmc.edu/publichealth/departments/biostatistics/), Omaha, NE. 
+Currently working on Enterprise Analytics team as a Data Scientist at Union Pacific Railroad.[(UP)](https://www.up.com/index.htm), a Ph.D. in Biostatistics candidate at the Department of Biostatistics, University of Nebraska Medical Center [(UNMC)](https://www.unmc.edu/publichealth/departments/biostatistics/), Omaha, NE. 
 
-Throughout my academic career, I had opportunities to complete various research projects of data analytics and predictive modeling based on Statistical/Biostatistical, data mining, and machine learning techniques using diffrerent statistical software, RStudio, MATLAB, BayesiaLab, SAS, and SPSS. That motivated me to enhance my knowledge in Data Science field and had opportunity to develop univariate and multivariate predictive models using boosted decision trees using RStudio and Python at Union Pacific. I have experience with data manipulation using SQL, and data visualization using [Tableau](https://public.tableau.com/profile/nirosha.p.rathnayake#!/). 
+I have developed predictive models in univariate and multivariate cases using statistical/biostatistical, data mining and machine learning techniques using statistical software, RStudio, Python, SAS/SAS SQL, MATLAB, BayesiaLab, and SPSS. In addition, I have experience working on TeraData, MS SQL, Oracle data bases, and data visualization using Tableau, R Shiny.  I have a passion of working with messy data, big data and high dimensional data sets. Experienced on collaborative work with cross-functional teams in public health field, and the rail road industry.  
 
 [My GitHub page!](https://github.com/niroshar/AcademicProjects)
+
+[Tableau](https://public.tableau.com/profile/nirosha.p.rathnayake#!/)
 
 [Research Projects/Presentations/Blogs](https://niroshar.github.io/My-Profile/links/Professional.html)
 
 [LinkedIn page](https://www.linkedin.com/in/nirosha-rathnayake-89501385/)
 
-[webpage](https://niroshar.github.io/My-Profile/)
+
 
 
