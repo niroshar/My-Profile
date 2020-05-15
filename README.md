@@ -10,6 +10,8 @@ I have developed predictive models in univariate and multivariate cases using st
 
 [LinkedIn page](https://www.linkedin.com/in/nirosha-rathnayake-89501385/)
 
+[Link](https://niroshar.github.io/My-Profile/)
+
 
 
 
