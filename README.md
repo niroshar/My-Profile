@@ -4,7 +4,7 @@ I have developed predictive models in univariate and multivariate cases using st
 
 [Research Projects/Presentations/Blogs](https://niroshar.github.io/My-Profile/links/Professional.html)
 
-[My GitHub page!](https://github.com/niroshar/AcademicProjects)
+[My GitHub page!](https://github.com/niroshar?tab=repositories)
 
 [Tableau](https://public.tableau.com/profile/nirosha.p.rathnayake#!/)
 
